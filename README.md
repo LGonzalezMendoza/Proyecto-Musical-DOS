@@ -1,2 +1,2 @@
-# Proyecto-Musical-DOS
-Act 6 Pagina web
+# Proyecto-musical
+Actividad 6 pagina web
